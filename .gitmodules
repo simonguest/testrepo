@@ -1,3 +1,3 @@
-[submodule "lib/extras"]
-	path = lib/extras
+[submodule "lib"]
+	path = lib
 	url = https://simonguest@github.com/simonguest/testsubmodule.git
