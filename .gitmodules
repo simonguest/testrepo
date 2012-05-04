@@ -1,0 +1,3 @@
+[submodule "lib/extras"]
+	path = lib/extras
+	url = https://simonguest@github.com/simonguest/testsubmodule.git
