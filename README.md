@@ -10,3 +10,5 @@ Testing merging of branches
 Test of using SourceTree
 
 Test using WebStorm's git integration
+
+Adding LFS to repo
